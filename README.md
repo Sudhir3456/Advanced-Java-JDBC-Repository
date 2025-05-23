@@ -59,7 +59,7 @@ A console-based mini project that allows:
 
 1. *Clone the Repository*  
    ```bash
-   git clone https://github.com/Sudhir3456/Advanced-Java-JDBC-Repository.git
+   git clone https://github.com/Sudhir3456/advanced-java-jdbc-repository.git
 
  
    ---
